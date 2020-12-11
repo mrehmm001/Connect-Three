@@ -1,0 +1,1 @@
+Connect Three is a hybrid between the game connect 4 and TicTacToe. The game's aim is to connect 3 counters in a row, either straight up or across, or diagonally. Here's the link to download the app: https://drive.google.com/file/d/1FsYDzDvXVSanzlZCwqGVLdBcq2QmQ1-K/view?usp=sharing
